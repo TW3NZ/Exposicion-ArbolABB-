@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Compiled C/C++ artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+a.out
+/abb
+/abb.exe
+
+# Build output
+/build/
+/cmake-build-*/
+
+# Editor and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
