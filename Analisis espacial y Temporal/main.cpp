@@ -1,4 +1,6 @@
 
+#include "arbol.h"
+
 void menu();
 
 int main()
@@ -39,8 +41,7 @@ int main()
              
                 // Al finalizar cout, se libera su byte temporal.
                 // Quedan los 9 bytes base.
-            
-        {
+
         case 1:
             do
             {
@@ -229,4 +230,3 @@ void menu()
       17 + 4n + 4k bytes.
      
     */
-

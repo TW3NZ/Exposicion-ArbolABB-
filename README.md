@@ -69,7 +69,15 @@ La demostración web está en `Diapositiva/ABB_ inserción y eliminación-4.html
 
 ### Implementación en C++
 
-El código fuente se encuentra en `Analisis espacial y Temporal/`. **La versión incluida actualmente no compila:** `main.cpp` presenta un bloque `do`/`switch` sin cerrar correctamente, por lo que el compilador informa que falta el `while` correspondiente. El código fuente se conserva sin modificaciones, según el alcance de esta entrega. Para ejecutar esta simulación desde C++ será necesario corregir ese problema sintáctico primero.
+El código fuente se encuentra en `Analisis espacial y Temporal/`. Con `g++` instalado, compila desde la carpeta del repositorio:
+
+```sh
+g++ -std=c++11 "Analisis espacial y Temporal/main.cpp" \
+  "Analisis espacial y Temporal/arbol.cpp" -o abb
+./abb
+```
+
+El programa ofrece opciones para insertar valores, eliminar un valor y salir.
 
 ## 🗂️ Estructura del repositorio
 
