@@ -1,4 +1,4 @@
-# 🌳 Árbol Binario de Búsqueda (ABB)
+# Árbol Binario de Búsqueda (ABB)
 
 ### Exposición Final – Tercer Corte | Grupo C
 
@@ -12,7 +12,7 @@
 
 Este repositorio contiene el material desarrollado para la exposición final del tercer corte, enfocada en el estudio del **Árbol Binario de Búsqueda (ABB)**. Reúne fundamentos teóricos, una implementación en C++, material de apoyo sobre complejidad y una presentación web con demostraciones visuales de inserción y eliminación.
 
-## 📚 Contenido
+## Contenido
 
 1. Concepto y fundamentos del Árbol Binario de Búsqueda (ABB).
 2. Aplicaciones de esta estructura de datos.
@@ -20,7 +20,7 @@ Este repositorio contiene el material desarrollado para la exposición final del
 4. Análisis de complejidad espacial.
 5. Simulaciones y demostraciones prácticas de su funcionamiento.
 
-## 🌱 Concepto y funcionamiento
+## Concepto y funcionamiento
 
 Un ABB organiza sus valores de modo que los menores que un nodo se ubican en su subárbol izquierdo y los mayores, en el derecho. Esta propiedad permite recorrer solo una parte del árbol al buscar un valor.
 
