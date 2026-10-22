@@ -17,7 +17,7 @@
 | Información académica | Detalle |
 | --- | --- |
 | **Docente** | Gloria Bautista |
-| **Asignatura** | Estructura de Datos |
+| **Asignatura** | Algoritmos Y Complejidad |
 | **Evaluación** | Exposición final del tercer corte |
 | **Grupo** | C |
 
