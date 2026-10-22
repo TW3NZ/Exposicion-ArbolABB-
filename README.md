@@ -7,6 +7,19 @@
 [![ABB](https://img.shields.io/badge/Algoritmo-ABB-2E8B57)](#-concepto-y-funcionamiento)
 
 ---
+## Integrantes
+
+| Integrante | Código estudiantil |
+| --- | --- |
+| Miguel Rodríguez | T00084480 |
+| Daniel Escudero | T00085014 |
+
+| Información académica | Detalle |
+| --- | --- |
+| **Docente** | Gloria Bautista |
+| **Asignatura** | Estructura de Datos |
+| **Evaluación** | Exposición final del tercer corte |
+| **Grupo** | C |
 
 ## 📖 Descripción del proyecto
 
@@ -79,7 +92,7 @@ g++ -std=c++11 "Analisis espacial y Temporal/main.cpp" \
 
 El programa ofrece opciones para insertar valores, eliminar un valor y salir.
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 
 ```text
 .
@@ -94,20 +107,6 @@ El programa ofrece opciones para insertar valores, eliminar un valor y salir.
 └── README.md
 ```
 
-## 👨‍💻 Integrantes
+## Créditos y agradecimientos
 
-| Integrante | Código estudiantil |
-| --- | --- |
-| Miguel Rodríguez | T00084480 |
-| Daniel Escudero | T00085014 |
-
-| Información académica | Detalle |
-| --- | --- |
-| **Docente** | Gloria Bautista |
-| **Asignatura** | Estructura de Datos |
-| **Evaluación** | Exposición final del tercer corte |
-| **Grupo** | C |
-
-## 🙌 Créditos y agradecimientos
-
-Trabajo realizado por **Miguel Rodríguez** y **Daniel Escudero** para la asignatura **Estructura de Datos**. Agradecemos a la docente **Gloria Bautista** por su orientación y acompañamiento durante el desarrollo y la presentación de este proyecto.
+Trabajo realizado por **Miguel Rodríguez** y **Daniel Escudero** para la asignatura **Algoritmos y Complejidad**. Agradecemos a la docente **Gloria Bautista** por su orientación y acompañamiento durante el desarrollo y la presentación de este proyecto.
